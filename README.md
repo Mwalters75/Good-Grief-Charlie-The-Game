@@ -1,11 +1,15 @@
                                                            GOOD GRIEF, CHARLIE: THE GAME INSTRUCTIONS
 1. Following what the characters say
 If you can, read the onscreen text, and click the hyperlinks (It'll be blue if you never played this before, if you have, It'll be purple).
+
 2. Clicking any other button that doesn't show Charlie losing at a game marbles
+
 That is what you would call, the 'trite' sections... all of them are very trite, not the one with Charlie losing at a game marbles, which is the 'Play!' button.
 3. 'Made with ❤️'
+
 The Made with ❤️ part was picked up from a website... now its Squiggle-Curiosity's slogan. Creative Commons is the licencer behind the favicon.
 4. Creative Commons
+
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
 BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
